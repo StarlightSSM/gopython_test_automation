@@ -1,3 +1,10 @@
+# 추가 메모 내용
+Chromium과 동시에 개발자 도구(codegen)와 같은 창을 추가로 열고 싶다...
+> playwright codegen https://www.naver.com
+
+그냥 스크립트로만 동작하는 Chromium 창만 열고 싶다...
+> python ch_06\step_1_2_inspector.py
+
 # <혼자 만들면서 공부하는 파이썬> 책의 깃허브 자료실
 
 <img src="https://raw.githubusercontent.com/himoon/gopython/refs/heads/main/images/cover_1st.png" width="150" alt="혼자 만들면서 공부하는 파이썬 표지">
