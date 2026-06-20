@@ -1,3 +1,6 @@
+# 이 레포지토리를 추가한 이유
+> 나중에 자동화 테스트 시나리오에 맞춰 python 스크립트짤때 참고하기 위한 용도로 사용하기 위한 목적
+
 # 추가 메모 내용
 Chromium과 동시에 개발자 도구(codegen)와 같은 창을 추가로 열고 싶다...
 > playwright codegen https://www.naver.com
